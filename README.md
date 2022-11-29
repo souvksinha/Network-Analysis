@@ -5,3 +5,4 @@ Notebooks of basic network analysis
 by Marcelo C. R. Melo, Rafael C. Bernardi, Cesar de la Fuente-Nunez, and Zaida Luthey-Schulten
 
 2. Basic-analysis notebook: uses the GC-based-mapping notebook output to dig dip in terms of path based analysis or interdomain communication analysis
+3. Interdomain_betweenness notebook: this calculation is also included in the Basic-analysis notebook
